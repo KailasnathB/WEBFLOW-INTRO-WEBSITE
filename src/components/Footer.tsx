@@ -158,7 +158,7 @@ const Footer = () => {
 
           <p className="text-slate-500 text-sm mt-4 md:mt-0">
             Designed & Developed by
-            <span className="text-blue-400 font-semibold"> WEBFLOW</span>
+            <span className="text-blue-400 font-semibold"> KAILASNATH B</span>
           </p>
 
         </div>
